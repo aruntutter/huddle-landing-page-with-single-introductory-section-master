@@ -24,7 +24,8 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [https://aruntutter.github.io/huddle-landing-page-with-single-introductory-section-master/](https://your-live-site-url.com)
+- Solution URL: [solution URL here](https://github.com/aruntutter/huddle-landing-page-with-single-introductory-section-master)
+- Live Site URL: [live site URL here](https://aruntutter.github.io/huddle-landing-page-with-single-introductory-section-master/)
 
 ## My process
 
